@@ -4,3 +4,8 @@
     color: white;
     font-size: 21px;
 }
+.large-paragraph p{
+    color: rgba(25, 203, 69, 0.813);
+    background-color: aquamarine;
+    padding: 10px 20px;
+}
